@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+numpy
+mlxtend
+openpyxl
+# mlxtend 
+# nb_conda_kernels
